@@ -1,4 +1,5 @@
 ﻿month,regulator,country_region,new_shortage_reports,average_duration_days,resolved_shortages
+8-08-01,Health Canada,Canada,1,737107.0,0
 2002-01-01,Health Canada,Canada,1,5685.0,0
 2003-01-01,TGA,Australia,1,8691.0,0
 2003-03-01,Health Canada,Canada,1,8630.0,0
@@ -222,7 +223,7 @@
 2020-01-01,FDA,United States,4,2482.0,0
 2020-01-01,Health Canada,Canada,280,433.6,224
 2020-01-01,TGA,Australia,115,2439.5,26
-2020-02-01,Health Canada,Canada,199,528.2,214
+2020-02-01,Health Canada,Canada,198,528.2,214
 2020-02-01,TGA,Australia,71,2399.8,26
 2020-03-01,FDA,United States,1,2325.0,0
 2020-03-01,Health Canada,Canada,332,410.1,242
