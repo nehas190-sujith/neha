@@ -1,506 +1,506 @@
 ﻿month,regulator,country_region,new_shortage_reports,average_duration_days,resolved_shortages
-0008-08-01,Health Canada,Canada,1,737119.0,0
+0008-08-01,Health Canada,Canada,1,737121.0,0
 2002-01-01,Health Canada,Canada,1,5685.0,0
-2003-01-01,TGA,Australia,1,8703.0,0
-2003-03-01,Health Canada,Canada,1,8642.0,0
-2004-01-01,Health Canada,Canada,1,8332.0,0
+2003-01-01,TGA,Australia,1,8705.0,0
+2003-03-01,Health Canada,Canada,1,8644.0,0
+2004-01-01,Health Canada,Canada,1,8334.0,0
 2006-07-01,Health Canada,Canada,1,4456.0,0
-2007-05-01,Health Canada,Canada,1,7116.0,0
-2008-01-01,Health Canada,Canada,2,6869.5,0
-2008-03-01,Health Canada,Canada,1,6799.0,0
-2008-10-01,TGA,Australia,1,6603.0,0
-2009-01-01,Health Canada,Canada,1,6511.0,0
-2009-11-01,Health Canada,Canada,1,6182.0,0
+2007-05-01,Health Canada,Canada,1,7118.0,0
+2008-01-01,Health Canada,Canada,2,6871.5,0
+2008-03-01,Health Canada,Canada,1,6801.0,0
+2008-10-01,TGA,Australia,1,6605.0,0
+2009-01-01,Health Canada,Canada,1,6513.0,0
+2009-11-01,Health Canada,Canada,1,6184.0,0
 2010-01-01,Health Canada,Canada,1,3126.0,0
-2011-04-01,Health Canada,Canada,4,5676.8,0
-2011-06-01,Health Canada,Canada,2,5611.5,0
-2011-08-01,Health Canada,Canada,2,5556.5,0
-2011-11-01,Health Canada,Canada,1,5448.0,0
-2011-12-01,Health Canada,Canada,1,5433.0,0
-2012-01-01,FDA,United States,24,5416.0,0
-2012-01-01,Health Canada,Canada,1,5406.0,0
-2012-02-01,FDA,United States,53,5364.0,0
-2012-02-01,Health Canada,Canada,6,5358.3,0
-2012-03-01,Health Canada,Canada,5,4381.6,0
-2012-05-01,Health Canada,Canada,2,5266.0,0
-2012-06-01,Health Canada,Canada,1,5252.0,0
-2012-07-01,Health Canada,Canada,1,5223.0,0
-2012-08-01,Health Canada,Canada,2,5186.0,0
-2012-09-01,Health Canada,Canada,1,5170.0,0
-2012-10-01,Health Canada,Canada,1,5140.0,0
-2012-12-01,Health Canada,Canada,2,5051.0,0
-2013-01-01,Health Canada,Canada,1,5050.0,0
-2013-01-01,TGA,Australia,1,5050.0,0
-2013-03-01,Health Canada,Canada,3,3818.0,0
-2013-05-01,Health Canada,Canada,4,3345.5,0
-2013-06-01,Health Canada,Canada,6,3809.8,0
+2011-04-01,Health Canada,Canada,4,5678.8,0
+2011-06-01,Health Canada,Canada,2,5613.5,0
+2011-08-01,Health Canada,Canada,2,5558.5,0
+2011-11-01,Health Canada,Canada,1,5450.0,0
+2011-12-01,Health Canada,Canada,1,5435.0,0
+2012-01-01,FDA,United States,24,5418.0,0
+2012-01-01,Health Canada,Canada,1,5408.0,0
+2012-02-01,FDA,United States,53,5366.0,0
+2012-02-01,Health Canada,Canada,6,5360.3,0
+2012-03-01,Health Canada,Canada,5,4382.8,0
+2012-05-01,Health Canada,Canada,2,5268.0,0
+2012-06-01,Health Canada,Canada,1,5254.0,0
+2012-07-01,Health Canada,Canada,1,5225.0,0
+2012-08-01,Health Canada,Canada,2,5188.0,0
+2012-09-01,Health Canada,Canada,1,5172.0,0
+2012-10-01,Health Canada,Canada,1,5142.0,0
+2012-12-01,Health Canada,Canada,2,5053.0,0
+2013-01-01,Health Canada,Canada,1,5052.0,0
+2013-01-01,TGA,Australia,1,5052.0,0
+2013-03-01,Health Canada,Canada,3,3819.3,0
+2013-05-01,Health Canada,Canada,4,3346.5,0
+2013-06-01,Health Canada,Canada,6,3811.2,0
 2013-07-01,Health Canada,Canada,1,2444.0,0
-2013-08-01,Health Canada,Canada,1,4813.0,0
-2013-09-01,Health Canada,Canada,1,4791.0,0
-2013-10-01,Health Canada,Canada,4,4757.2,0
-2013-10-01,TGA,Australia,1,4777.0,0
+2013-08-01,Health Canada,Canada,1,4815.0,0
+2013-09-01,Health Canada,Canada,1,4793.0,0
+2013-10-01,Health Canada,Canada,4,4759.2,0
+2013-10-01,TGA,Australia,1,4779.0,0
 2013-11-01,EMA,European Union / EEA,2,1369.0,0
-2013-12-01,EMA,European Union / EEA,1,4697.0,0
-2013-12-01,Health Canada,Canada,6,4710.5,0
-2014-01-01,Health Canada,Canada,6,2338.5,3
+2013-12-01,EMA,European Union / EEA,1,4699.0,0
+2013-12-01,Health Canada,Canada,6,4712.5,0
+2014-01-01,Health Canada,Canada,6,2339.5,3
 2014-02-01,EMA,European Union / EEA,1,77.0,0
-2014-03-01,Health Canada,Canada,7,3577.0,0
+2014-03-01,Health Canada,Canada,7,3577.9,0
 2014-04-01,EMA,European Union / EEA,1,339.0,0
-2014-04-01,Health Canada,Canada,26,4270.2,0
+2014-04-01,Health Canada,Canada,26,4272.0,0
 2014-05-01,EMA,European Union / EEA,0,,1
-2014-05-01,Health Canada,Canada,4,3842.2,0
-2014-05-01,TGA,Australia,1,4543.0,0
+2014-05-01,Health Canada,Canada,4,3843.8,0
+2014-05-01,TGA,Australia,1,4545.0,0
 2014-06-01,Health Canada,Canada,1,1273.0,0
-2014-06-01,TGA,Australia,1,4516.0,0
-2014-07-01,Health Canada,Canada,5,3895.0,0
-2014-07-01,TGA,Australia,1,4484.0,1
-2014-08-01,Health Canada,Canada,2,3072.0,0
-2014-09-01,Health Canada,Canada,3,2327.7,0
-2014-09-01,TGA,Australia,2,4428.5,0
+2014-06-01,TGA,Australia,1,4518.0,0
+2014-07-01,Health Canada,Canada,5,3896.6,0
+2014-07-01,TGA,Australia,1,4486.0,1
+2014-08-01,Health Canada,Canada,2,3073.0,0
+2014-09-01,Health Canada,Canada,3,2328.3,0
+2014-09-01,TGA,Australia,2,4430.5,0
 2014-10-01,EMA,European Union / EEA,1,195.0,0
-2014-10-01,Health Canada,Canada,59,3001.6,0
-2014-10-01,TGA,Australia,2,4382.5,0
+2014-10-01,Health Canada,Canada,59,3002.7,0
+2014-10-01,TGA,Australia,2,4384.5,0
 2014-11-01,Health Canada,Canada,7,1219.4,0
-2014-11-01,TGA,Australia,3,4369.0,0
-2014-12-01,Health Canada,Canada,3,4148.3,0
-2014-12-01,TGA,Australia,4,4325.8,0
-2015-01-01,Health Canada,Canada,7,3272.6,0
-2015-01-01,TGA,Australia,3,4309.3,0
-2015-02-01,FDA,United States,6,4273.0,0
+2014-11-01,TGA,Australia,3,4371.0,0
+2014-12-01,Health Canada,Canada,3,4149.7,0
+2014-12-01,TGA,Australia,4,4327.8,0
+2015-01-01,Health Canada,Canada,7,3274.0,0
+2015-01-01,TGA,Australia,3,4311.3,0
+2015-02-01,FDA,United States,6,4275.0,0
 2015-02-01,Health Canada,Canada,3,929.3,0
-2015-02-01,TGA,Australia,11,4266.6,0
+2015-02-01,TGA,Australia,11,4268.6,0
 2015-03-01,EMA,European Union / EEA,1,178.0,1
-2015-03-01,Health Canada,Canada,2,2560.5,0
-2015-03-01,TGA,Australia,6,4235.8,0
+2015-03-01,Health Canada,Canada,2,2561.5,0
+2015-03-01,TGA,Australia,6,4237.8,0
 2015-04-01,EMA,European Union / EEA,0,,1
-2015-04-01,Health Canada,Canada,7,2764.1,0
-2015-04-01,TGA,Australia,6,4211.3,0
+2015-04-01,Health Canada,Canada,7,2765.3,0
+2015-04-01,TGA,Australia,6,4213.3,0
 2015-05-01,EMA,European Union / EEA,1,1630.0,0
-2015-05-01,Health Canada,Canada,4,2739.0,0
-2015-05-01,TGA,Australia,3,4183.7,0
-2015-06-01,Health Canada,Canada,4,2121.8,1
-2015-06-01,TGA,Australia,5,4150.2,0
-2015-07-01,Health Canada,Canada,12,2095.2,0
-2015-07-01,TGA,Australia,6,4122.8,0
-2015-08-01,Health Canada,Canada,5,2483.2,0
-2015-08-01,TGA,Australia,2,4093.5,0
+2015-05-01,Health Canada,Canada,4,2740.0,0
+2015-05-01,TGA,Australia,3,4185.7,0
+2015-06-01,Health Canada,Canada,4,2122.2,1
+2015-06-01,TGA,Australia,5,4152.2,0
+2015-07-01,Health Canada,Canada,12,2095.7,0
+2015-07-01,TGA,Australia,6,4124.8,0
+2015-08-01,Health Canada,Canada,5,2484.0,0
+2015-08-01,TGA,Australia,2,4095.5,0
 2015-09-01,EMA,European Union / EEA,1,699.0,1
-2015-09-01,Health Canada,Canada,10,1944.1,0
-2015-09-01,TGA,Australia,4,4055.2,0
-2015-10-01,Health Canada,Canada,17,1225.5,0
-2015-10-01,TGA,Australia,4,4028.8,0
-2015-11-01,Health Canada,Canada,7,1470.3,1
-2015-11-01,TGA,Australia,8,3994.4,0
-2015-12-01,EMA,European Union / EEA,1,3986.0,0
-2015-12-01,Health Canada,Canada,2,2538.5,0
-2015-12-01,TGA,Australia,4,3956.0,0
-2016-01-01,Health Canada,Canada,18,2016.6,0
-2016-01-01,TGA,Australia,12,3936.9,0
-2016-02-01,FDA,United States,12,3922.0,0
-2016-02-01,Health Canada,Canada,24,2207.8,0
-2016-02-01,TGA,Australia,6,3906.5,0
-2016-03-01,FDA,United States,3,3873.0,0
-2016-03-01,Health Canada,Canada,9,948.2,0
-2016-03-01,TGA,Australia,8,3878.8,0
-2016-04-01,Health Canada,Canada,53,3291.6,0
-2016-04-01,TGA,Australia,3,3843.3,0
+2015-09-01,Health Canada,Canada,10,1944.7,0
+2015-09-01,TGA,Australia,4,4057.2,0
+2015-10-01,Health Canada,Canada,17,1225.7,0
+2015-10-01,TGA,Australia,4,4030.8,0
+2015-11-01,Health Canada,Canada,7,1470.6,1
+2015-11-01,TGA,Australia,8,3996.4,0
+2015-12-01,EMA,European Union / EEA,1,3988.0,0
+2015-12-01,Health Canada,Canada,2,2539.5,0
+2015-12-01,TGA,Australia,4,3958.0,0
+2016-01-01,Health Canada,Canada,18,2017.2,0
+2016-01-01,TGA,Australia,12,3938.9,0
+2016-02-01,FDA,United States,12,3924.0,0
+2016-02-01,Health Canada,Canada,24,2208.6,0
+2016-02-01,TGA,Australia,6,3908.5,0
+2016-03-01,FDA,United States,3,3875.0,0
+2016-03-01,Health Canada,Canada,9,948.4,0
+2016-03-01,TGA,Australia,8,3880.8,0
+2016-04-01,Health Canada,Canada,53,3293.2,0
+2016-04-01,TGA,Australia,3,3845.3,0
 2016-05-01,EMA,European Union / EEA,1,123.0,0
-2016-05-01,Health Canada,Canada,13,2004.3,1
-2016-05-01,TGA,Australia,3,3810.3,0
+2016-05-01,Health Canada,Canada,13,2005.2,1
+2016-05-01,TGA,Australia,3,3812.3,0
 2016-06-01,EMA,European Union / EEA,0,,1
-2016-06-01,Health Canada,Canada,14,1960.1,0
-2016-06-01,TGA,Australia,10,3777.6,0
-2016-07-01,Health Canada,Canada,14,1474.5,0
-2016-07-01,TGA,Australia,6,3760.8,0
-2016-08-01,Health Canada,Canada,10,2291.8,0
-2016-08-01,TGA,Australia,8,3725.0,0
+2016-06-01,Health Canada,Canada,14,1960.6,0
+2016-06-01,TGA,Australia,10,3779.6,0
+2016-07-01,Health Canada,Canada,14,1475.1,0
+2016-07-01,TGA,Australia,6,3762.8,0
+2016-08-01,Health Canada,Canada,10,2292.8,0
+2016-08-01,TGA,Australia,8,3727.0,0
 2016-09-01,EMA,European Union / EEA,0,,1
-2016-09-01,Health Canada,Canada,52,1148.0,0
-2016-09-01,TGA,Australia,11,3692.2,0
-2016-10-01,FDA,United States,12,3668.0,0
-2016-10-01,Health Canada,Canada,24,1661.1,2
-2016-10-01,TGA,Australia,11,3661.7,0
-2016-11-01,Health Canada,Canada,43,823.1,0
-2016-11-01,TGA,Australia,7,3627.6,0
-2016-12-01,Health Canada,Canada,41,1471.7,0
-2016-12-01,TGA,Australia,8,3600.1,0
-2017-01-01,Health Canada,Canada,45,585.0,1
-2017-01-01,TGA,Australia,7,3572.3,0
+2016-09-01,Health Canada,Canada,52,1148.5,0
+2016-09-01,TGA,Australia,11,3694.2,0
+2016-10-01,FDA,United States,12,3670.0,0
+2016-10-01,Health Canada,Canada,24,1661.9,2
+2016-10-01,TGA,Australia,11,3663.7,0
+2016-11-01,Health Canada,Canada,43,823.3,0
+2016-11-01,TGA,Australia,7,3629.6,0
+2016-12-01,Health Canada,Canada,41,1472.1,0
+2016-12-01,TGA,Australia,8,3602.1,0
+2017-01-01,Health Canada,Canada,45,585.2,1
+2017-01-01,TGA,Australia,7,3574.3,0
 2017-02-01,EMA,European Union / EEA,1,2091.0,0
-2017-02-01,Health Canada,Canada,74,467.5,0
-2017-02-01,TGA,Australia,7,3543.1,0
+2017-02-01,Health Canada,Canada,74,467.7,0
+2017-02-01,TGA,Australia,7,3545.1,0
 2017-03-01,EMA,European Union / EEA,1,2391.0,0
-2017-03-01,FDA,United States,6,3530.0,0
-2017-03-01,Health Canada,Canada,462,1114.9,114
-2017-03-01,TGA,Australia,7,3509.9,0
-2017-04-01,Health Canada,Canada,370,1124.9,148
-2017-04-01,TGA,Australia,10,3476.9,0
-2017-05-01,Health Canada,Canada,282,767.8,182
-2017-05-01,TGA,Australia,7,3452.9,0
-2017-06-01,Health Canada,Canada,279,901.8,145
-2017-06-01,TGA,Australia,8,3420.2,0
+2017-03-01,FDA,United States,6,3532.0,0
+2017-03-01,Health Canada,Canada,462,1115.4,114
+2017-03-01,TGA,Australia,7,3511.9,0
+2017-04-01,Health Canada,Canada,370,1125.4,148
+2017-04-01,TGA,Australia,10,3478.9,0
+2017-05-01,Health Canada,Canada,282,768.2,182
+2017-05-01,TGA,Australia,7,3454.9,0
+2017-06-01,Health Canada,Canada,279,902.3,145
+2017-06-01,TGA,Australia,8,3422.2,0
 2017-07-01,EMA,European Union / EEA,2,329.5,0
-2017-07-01,FDA,United States,5,3385.0,0
-2017-07-01,Health Canada,Canada,354,758.5,227
-2017-07-01,TGA,Australia,11,3384.9,0
+2017-07-01,FDA,United States,5,3387.0,0
+2017-07-01,Health Canada,Canada,354,758.9,227
+2017-07-01,TGA,Australia,11,3386.9,0
 2017-08-01,EMA,European Union / EEA,0,,1
-2017-08-01,Health Canada,Canada,275,520.3,184
-2017-08-01,TGA,Australia,15,3361.5,0
-2017-09-01,Health Canada,Canada,350,500.6,238
-2017-09-01,TGA,Australia,23,3326.7,0
-2017-10-01,FDA,United States,37,3286.8,0
-2017-10-01,Health Canada,Canada,281,655.1,251
-2017-10-01,TGA,Australia,18,3297.3,1
-2017-11-01,FDA,United States,46,3280.1,0
-2017-11-01,Health Canada,Canada,278,517.0,198
-2017-11-01,TGA,Australia,10,3263.2,0
+2017-08-01,Health Canada,Canada,275,520.5,184
+2017-08-01,TGA,Australia,15,3363.5,0
+2017-09-01,Health Canada,Canada,350,500.8,238
+2017-09-01,TGA,Australia,23,3328.7,0
+2017-10-01,FDA,United States,37,3288.8,0
+2017-10-01,Health Canada,Canada,281,655.5,251
+2017-10-01,TGA,Australia,18,3299.3,1
+2017-11-01,FDA,United States,46,3282.1,0
+2017-11-01,Health Canada,Canada,278,517.2,198
+2017-11-01,TGA,Australia,10,3265.2,0
 2017-12-01,FDA,United States,6,3213.0,0
-2017-12-01,Health Canada,Canada,276,506.5,206
-2017-12-01,TGA,Australia,16,3243.0,0
+2017-12-01,Health Canada,Canada,276,506.8,206
+2017-12-01,TGA,Australia,16,3245.0,0
 2018-01-01,FDA,United States,6,3164.0,0
-2018-01-01,Health Canada,Canada,343,646.4,177
-2018-01-01,TGA,Australia,18,3205.9,0
-2018-02-01,FDA,United States,81,3174.0,0
-2018-02-01,Health Canada,Canada,289,854.4,272
-2018-02-01,TGA,Australia,21,3172.1,0
+2018-01-01,Health Canada,Canada,343,646.8,177
+2018-01-01,TGA,Australia,18,3207.9,0
+2018-02-01,FDA,United States,87,3176.0,0
+2018-02-01,Health Canada,Canada,289,854.8,272
+2018-02-01,TGA,Australia,21,3174.1,0
 2018-03-01,EMA,European Union / EEA,0,,1
-2018-03-01,FDA,United States,63,3142.3,0
-2018-03-01,Health Canada,Canada,300,578.0,222
-2018-03-01,TGA,Australia,15,3150.7,0
-2018-04-01,Health Canada,Canada,244,688.8,291
-2018-04-01,TGA,Australia,20,3123.3,0
-2018-05-01,FDA,United States,4,3102.0,0
-2018-05-01,Health Canada,Canada,281,644.9,264
-2018-05-01,TGA,Australia,18,3086.3,0
-2018-06-01,FDA,United States,17,3063.8,0
-2018-06-01,Health Canada,Canada,201,1276.6,228
-2018-06-01,TGA,Australia,20,3058.4,8
-2018-07-01,FDA,United States,1,3030.0,0
-2018-07-01,Health Canada,Canada,421,1057.5,278
-2018-07-01,TGA,Australia,25,3027.1,2
+2018-03-01,FDA,United States,63,3144.3,0
+2018-03-01,Health Canada,Canada,300,578.3,222
+2018-03-01,TGA,Australia,15,3152.7,0
+2018-04-01,Health Canada,Canada,244,689.2,291
+2018-04-01,TGA,Australia,20,3125.3,0
+2018-05-01,FDA,United States,4,3104.0,0
+2018-05-01,Health Canada,Canada,281,645.3,264
+2018-05-01,TGA,Australia,18,3088.3,0
+2018-06-01,FDA,United States,17,3065.8,0
+2018-06-01,Health Canada,Canada,201,1277.4,228
+2018-06-01,TGA,Australia,20,3060.4,8
+2018-07-01,FDA,United States,1,3032.0,0
+2018-07-01,Health Canada,Canada,421,1058.1,278
+2018-07-01,TGA,Australia,25,3029.1,2
 2018-08-01,EMA,European Union / EEA,1,689.0,0
-2018-08-01,Health Canada,Canada,228,931.9,239
-2018-08-01,TGA,Australia,15,2999.9,0
+2018-08-01,Health Canada,Canada,228,932.5,239
+2018-08-01,TGA,Australia,15,3001.9,0
 2018-09-01,EMA,European Union / EEA,0,,1
-2018-09-01,FDA,United States,7,2977.0,0
-2018-09-01,Health Canada,Canada,311,1362.5,183
-2018-09-01,TGA,Australia,16,2965.1,1
+2018-09-01,FDA,United States,7,2979.0,0
+2018-09-01,Health Canada,Canada,311,1363.4,183
+2018-09-01,TGA,Australia,16,2967.1,1
 2018-10-01,EMA,European Union / EEA,0,,1
-2018-10-01,Health Canada,Canada,297,861.9,221
-2018-10-01,TGA,Australia,21,2928.8,0
-2018-11-01,Health Canada,Canada,271,606.7,191
-2018-11-01,TGA,Australia,17,2902.8,1
-2018-12-01,FDA,United States,1,2885.0,0
-2018-12-01,Health Canada,Canada,260,941.4,187
-2018-12-01,TGA,Australia,42,2872.8,9
-2019-01-01,Health Canada,Canada,314,474.9,226
-2019-01-01,TGA,Australia,50,2839.5,12
-2019-02-01,FDA,United States,19,2821.0,0
-2019-02-01,Health Canada,Canada,264,665.7,223
-2019-02-01,TGA,Australia,80,2808.4,17
-2019-03-01,Health Canada,Canada,272,668.7,214
-2019-03-01,TGA,Australia,53,2730.1,15
-2019-04-01,Health Canada,Canada,258,605.7,198
-2019-04-01,TGA,Australia,84,2718.0,9
-2019-05-01,Health Canada,Canada,268,510.4,231
-2019-05-01,TGA,Australia,85,2683.7,39
-2019-06-01,Health Canada,Canada,283,482.5,186
-2019-06-01,TGA,Australia,74,2688.0,41
-2019-07-01,Health Canada,Canada,265,547.0,236
-2019-07-01,TGA,Australia,74,2659.5,37
-2019-08-01,Health Canada,Canada,234,553.9,184
-2019-08-01,TGA,Australia,86,2628.4,13
-2019-09-01,FDA,United States,1,2593.0,0
-2019-09-01,Health Canada,Canada,286,586.3,216
-2019-09-01,TGA,Australia,81,2597.6,25
-2019-10-01,Health Canada,Canada,312,572.2,207
-2019-10-01,TGA,Australia,75,2534.3,20
+2018-10-01,Health Canada,Canada,297,862.4,221
+2018-10-01,TGA,Australia,21,2930.8,0
+2018-11-01,Health Canada,Canada,271,607.0,191
+2018-11-01,TGA,Australia,17,2904.8,1
+2018-12-01,FDA,United States,1,2887.0,0
+2018-12-01,Health Canada,Canada,260,941.9,187
+2018-12-01,TGA,Australia,42,2874.8,9
+2019-01-01,Health Canada,Canada,314,475.1,226
+2019-01-01,TGA,Australia,50,2841.5,12
+2019-02-01,FDA,United States,19,2823.0,0
+2019-02-01,Health Canada,Canada,264,666.1,223
+2019-02-01,TGA,Australia,80,2810.4,17
+2019-03-01,Health Canada,Canada,272,669.1,214
+2019-03-01,TGA,Australia,53,2732.0,15
+2019-04-01,Health Canada,Canada,258,606.1,198
+2019-04-01,TGA,Australia,84,2720.0,9
+2019-05-01,Health Canada,Canada,268,510.6,231
+2019-05-01,TGA,Australia,85,2685.7,39
+2019-06-01,Health Canada,Canada,283,482.7,186
+2019-06-01,TGA,Australia,74,2690.0,41
+2019-07-01,Health Canada,Canada,265,547.3,236
+2019-07-01,TGA,Australia,74,2661.5,37
+2019-08-01,Health Canada,Canada,234,554.2,184
+2019-08-01,TGA,Australia,86,2630.4,13
+2019-09-01,FDA,United States,1,2595.0,0
+2019-09-01,Health Canada,Canada,286,586.6,216
+2019-09-01,TGA,Australia,81,2599.6,25
+2019-10-01,Health Canada,Canada,312,572.5,207
+2019-10-01,TGA,Australia,75,2536.3,20
 2019-11-01,EMA,European Union / EEA,0,,1
-2019-11-01,Health Canada,Canada,253,468.0,197
-2019-11-01,TGA,Australia,92,2538.4,30
-2019-12-01,Health Canada,Canada,209,462.3,175
-2019-12-01,TGA,Australia,101,2408.4,20
-2020-01-01,FDA,United States,4,2494.0,0
-2020-01-01,Health Canada,Canada,280,435.0,224
-2020-01-01,TGA,Australia,115,2451.4,26
-2020-02-01,Health Canada,Canada,198,530.2,214
-2020-02-01,TGA,Australia,71,2411.7,26
+2019-11-01,Health Canada,Canada,253,468.3,197
+2019-11-01,TGA,Australia,92,2540.4,30
+2019-12-01,Health Canada,Canada,209,462.6,175
+2019-12-01,TGA,Australia,101,2410.3,20
+2020-01-01,FDA,United States,4,2496.0,0
+2020-01-01,Health Canada,Canada,280,435.2,224
+2020-01-01,TGA,Australia,115,2453.4,26
+2020-02-01,Health Canada,Canada,198,530.5,214
+2020-02-01,TGA,Australia,71,2413.6,26
 2020-03-01,FDA,United States,1,2325.0,0
-2020-03-01,Health Canada,Canada,332,411.6,242
-2020-03-01,TGA,Australia,90,2415.3,15
-2020-04-01,FDA,United States,109,2396.7,0
-2020-04-01,Health Canada,Canada,345,339.1,310
-2020-04-01,TGA,Australia,92,2385.8,26
-2020-05-01,EMA,European Union / EEA,1,2373.0,0
-2020-05-01,Health Canada,Canada,212,614.5,290
-2020-05-01,TGA,Australia,117,2353.9,23
+2020-03-01,Health Canada,Canada,332,411.9,242
+2020-03-01,TGA,Australia,90,2417.3,15
+2020-04-01,FDA,United States,112,2398.9,0
+2020-04-01,Health Canada,Canada,345,339.3,310
+2020-04-01,TGA,Australia,92,2387.8,26
+2020-05-01,EMA,European Union / EEA,1,2375.0,0
+2020-05-01,Health Canada,Canada,212,614.9,290
+2020-05-01,TGA,Australia,117,2355.9,23
 2020-06-01,EMA,European Union / EEA,0,,1
-2020-06-01,Health Canada,Canada,345,1117.6,391
-2020-06-01,TGA,Australia,122,2324.9,33
-2020-07-01,Health Canada,Canada,269,529.2,238
-2020-07-01,TGA,Australia,85,2294.3,24
-2020-08-01,Health Canada,Canada,185,345.0,222
-2020-08-01,TGA,Australia,101,2262.8,19
-2020-09-01,Health Canada,Canada,217,266.5,211
-2020-09-01,TGA,Australia,113,2233.0,13
-2020-10-01,Health Canada,Canada,239,321.2,189
-2020-10-01,TGA,Australia,115,2204.7,28
-2020-11-01,Health Canada,Canada,171,373.3,211
-2020-11-01,TGA,Australia,82,2145.4,12
+2020-06-01,Health Canada,Canada,345,1118.5,391
+2020-06-01,TGA,Australia,122,2326.9,33
+2020-07-01,Health Canada,Canada,269,529.6,238
+2020-07-01,TGA,Australia,85,2296.3,24
+2020-08-01,Health Canada,Canada,185,345.2,222
+2020-08-01,TGA,Australia,101,2264.8,19
+2020-09-01,Health Canada,Canada,217,266.6,211
+2020-09-01,TGA,Australia,113,2235.0,13
+2020-10-01,Health Canada,Canada,239,321.4,189
+2020-10-01,TGA,Australia,115,2206.7,28
+2020-11-01,Health Canada,Canada,171,373.5,211
+2020-11-01,TGA,Australia,82,2147.3,12
 2020-12-01,EMA,European Union / EEA,1,843.0,0
-2020-12-01,FDA,United States,31,2145.5,0
-2020-12-01,Health Canada,Canada,158,424.1,168
-2020-12-01,TGA,Australia,114,2143.1,22
+2020-12-01,FDA,United States,31,2147.5,0
+2020-12-01,Health Canada,Canada,158,424.4,168
+2020-12-01,TGA,Australia,114,2145.1,22
 2021-01-01,EMA,European Union / EEA,1,32.0,0
-2021-01-01,Health Canada,Canada,263,165.2,213
-2021-01-01,TGA,Australia,67,2050.1,7
+2021-01-01,Health Canada,Canada,263,165.3,213
+2021-01-01,TGA,Australia,67,2052.1,7
 2021-02-01,EMA,European Union / EEA,1,34.0,0
-2021-02-01,FDA,United States,3,2081.0,0
-2021-02-01,Health Canada,Canada,198,506.5,231
-2021-02-01,TGA,Australia,91,2080.3,18
+2021-02-01,FDA,United States,3,2083.0,0
+2021-02-01,Health Canada,Canada,198,506.9,231
+2021-02-01,TGA,Australia,91,2082.3,18
 2021-03-01,EMA,European Union / EEA,0,,2
-2021-03-01,FDA,United States,4,2058.0,0
-2021-03-01,Health Canada,Canada,197,395.2,268
-2021-03-01,TGA,Australia,92,2051.9,16
+2021-03-01,FDA,United States,4,2060.0,0
+2021-03-01,Health Canada,Canada,197,395.5,268
+2021-03-01,TGA,Australia,92,2053.9,16
 2021-04-01,EMA,European Union / EEA,2,52.5,0
-2021-04-01,FDA,United States,1,2029.0,0
-2021-04-01,Health Canada,Canada,205,476.8,168
-2021-04-01,TGA,Australia,82,2019.7,26
+2021-04-01,FDA,United States,1,2031.0,0
+2021-04-01,Health Canada,Canada,205,477.1,168
+2021-04-01,TGA,Australia,82,2021.7,26
 2021-05-01,EMA,European Union / EEA,0,,1
-2021-05-01,FDA,United States,1,2005.0,0
-2021-05-01,Health Canada,Canada,175,310.4,175
-2021-05-01,TGA,Australia,102,1989.4,8
+2021-05-01,FDA,United States,1,2007.0,0
+2021-05-01,Health Canada,Canada,175,310.6,175
+2021-05-01,TGA,Australia,102,1991.4,8
 2021-06-01,EMA,European Union / EEA,0,,1
-2021-06-01,Health Canada,Canada,194,303.8,158
-2021-06-01,TGA,Australia,84,1941.0,23
+2021-06-01,Health Canada,Canada,194,304.1,158
+2021-06-01,TGA,Australia,84,1943.0,23
 2021-07-01,EMA,European Union / EEA,1,1785.0,0
-2021-07-01,Health Canada,Canada,166,431.8,170
-2021-07-01,TGA,Australia,78,1930.7,17
-2021-08-01,Health Canada,Canada,152,398.5,147
-2021-08-01,TGA,Australia,78,1902.7,14
+2021-07-01,Health Canada,Canada,166,432.1,170
+2021-07-01,TGA,Australia,78,1932.7,17
+2021-08-01,Health Canada,Canada,152,398.8,147
+2021-08-01,TGA,Australia,78,1904.7,14
 2021-09-01,EMA,European Union / EEA,1,1306.0,0
 2021-09-01,FDA,United States,1,1768.0,0
-2021-09-01,Health Canada,Canada,202,260.9,165
-2021-09-01,TGA,Australia,78,1870.1,15
-2021-10-01,Health Canada,Canada,175,342.5,177
-2021-10-01,TGA,Australia,89,1840.6,22
+2021-09-01,Health Canada,Canada,202,261.1,165
+2021-09-01,TGA,Australia,78,1872.1,15
+2021-10-01,Health Canada,Canada,175,342.7,177
+2021-10-01,TGA,Australia,89,1842.6,22
 2021-11-01,EMA,European Union / EEA,1,674.0,0
-2021-11-01,FDA,United States,11,1802.0,0
-2021-11-01,Health Canada,Canada,237,609.4,126
-2021-11-01,TGA,Australia,82,1810.2,13
-2021-12-01,FDA,United States,32,1778.4,0
-2021-12-01,Health Canada,Canada,200,227.2,175
-2021-12-01,TGA,Australia,64,1780.5,19
-2022-01-01,FDA,United States,7,1751.0,0
-2022-01-01,Health Canada,Canada,235,226.4,186
-2022-01-01,TGA,Australia,77,1746.2,10
-2022-02-01,FDA,United States,35,1719.0,0
-2022-02-01,Health Canada,Canada,195,309.6,157
-2022-02-01,TGA,Australia,59,1696.8,10
-2022-03-01,FDA,United States,14,1703.1,0
-2022-03-01,Health Canada,Canada,229,357.1,199
-2022-03-01,TGA,Australia,86,1690.7,19
-2022-04-01,Health Canada,Canada,239,226.7,187
-2022-04-01,TGA,Australia,55,1659.8,14
-2022-05-01,EMA,European Union / EEA,1,1642.0,0
-2022-05-01,FDA,United States,4,1641.0,0
-2022-05-01,Health Canada,Canada,190,262.9,164
-2022-05-01,TGA,Australia,90,1627.5,8
-2022-06-01,FDA,United States,10,1586.2,0
-2022-06-01,Health Canada,Canada,273,269.8,210
-2022-06-01,TGA,Australia,69,1595.7,17
-2022-07-01,FDA,United States,2,1571.0,0
-2022-07-01,Health Canada,Canada,226,344.8,167
-2022-07-01,TGA,Australia,75,1566.9,11
+2021-11-01,FDA,United States,12,1804.0,0
+2021-11-01,Health Canada,Canada,237,610.0,126
+2021-11-01,TGA,Australia,82,1812.2,13
+2021-12-01,FDA,United States,32,1780.4,0
+2021-12-01,Health Canada,Canada,200,227.3,175
+2021-12-01,TGA,Australia,64,1782.5,19
+2022-01-01,FDA,United States,7,1753.0,0
+2022-01-01,Health Canada,Canada,235,226.5,186
+2022-01-01,TGA,Australia,77,1748.2,10
+2022-02-01,FDA,United States,35,1721.0,0
+2022-02-01,Health Canada,Canada,195,309.9,157
+2022-02-01,TGA,Australia,59,1698.8,10
+2022-03-01,FDA,United States,14,1705.1,0
+2022-03-01,Health Canada,Canada,229,357.4,199
+2022-03-01,TGA,Australia,86,1692.7,19
+2022-04-01,Health Canada,Canada,239,226.9,187
+2022-04-01,TGA,Australia,55,1661.8,14
+2022-05-01,EMA,European Union / EEA,1,1644.0,0
+2022-05-01,FDA,United States,4,1643.0,0
+2022-05-01,Health Canada,Canada,190,263.1,164
+2022-05-01,TGA,Australia,90,1629.5,8
+2022-06-01,FDA,United States,10,1588.2,0
+2022-06-01,Health Canada,Canada,273,270.0,210
+2022-06-01,TGA,Australia,69,1597.7,17
+2022-07-01,FDA,United States,2,1573.0,0
+2022-07-01,Health Canada,Canada,226,345.1,167
+2022-07-01,TGA,Australia,75,1568.9,11
 2022-08-01,EMA,European Union / EEA,1,189.0,0
-2022-08-01,FDA,United States,6,1549.0,0
-2022-08-01,Health Canada,Canada,239,343.6,208
-2022-08-01,TGA,Australia,103,1537.0,19
+2022-08-01,FDA,United States,6,1551.0,0
+2022-08-01,Health Canada,Canada,239,343.9,208
+2022-08-01,TGA,Australia,101,1539.0,19
 2022-09-01,EMA,European Union / EEA,2,230.0,0
-2022-09-01,Health Canada,Canada,236,272.8,199
-2022-09-01,TGA,Australia,73,1484.0,11
+2022-09-01,Health Canada,Canada,236,273.0,199
+2022-09-01,TGA,Australia,73,1486.0,11
 2022-10-01,EMA,European Union / EEA,2,1086.0,0
-2022-10-01,FDA,United States,93,1477.9,0
-2022-10-01,Health Canada,Canada,271,202.4,174
-2022-10-01,TGA,Australia,78,1475.5,14
+2022-10-01,FDA,United States,93,1479.8,0
+2022-10-01,Health Canada,Canada,271,202.6,174
+2022-10-01,TGA,Australia,78,1477.5,14
 2022-11-01,EMA,European Union / EEA,0,,1
-2022-11-01,Health Canada,Canada,303,167.1,195
-2022-11-01,TGA,Australia,70,1444.5,20
-2022-12-01,Health Canada,Canada,307,174.2,261
-2022-12-01,TGA,Australia,76,1415.6,10
-2023-01-01,EMA,European Union / EEA,2,1186.5,0
-2023-01-01,FDA,United States,21,1380.0,0
-2023-01-01,Health Canada,Canada,291,154.8,322
-2023-01-01,TGA,Australia,65,1344.2,25
+2022-11-01,Health Canada,Canada,303,167.2,195
+2022-11-01,TGA,Australia,70,1446.5,20
+2022-12-01,Health Canada,Canada,307,174.3,261
+2022-12-01,TGA,Australia,76,1417.6,10
+2023-01-01,EMA,European Union / EEA,2,1187.5,0
+2023-01-01,FDA,United States,21,1382.0,0
+2023-01-01,Health Canada,Canada,291,154.9,322
+2023-01-01,TGA,Australia,65,1346.2,25
 2023-02-01,EMA,European Union / EEA,0,,1
-2023-02-01,FDA,United States,26,1353.0,0
-2023-02-01,Health Canada,Canada,255,152.0,252
-2023-02-01,TGA,Australia,81,1354.2,19
+2023-02-01,FDA,United States,26,1355.0,0
+2023-02-01,Health Canada,Canada,255,152.1,252
+2023-02-01,TGA,Australia,81,1356.2,19
 2023-03-01,EMA,European Union / EEA,1,930.0,0
-2023-03-01,FDA,United States,71,1326.5,0
-2023-03-01,Health Canada,Canada,209,205.4,248
-2023-03-01,TGA,Australia,99,1325.9,19
+2023-03-01,FDA,United States,72,1328.5,0
+2023-03-01,Health Canada,Canada,209,205.6,248
+2023-03-01,TGA,Australia,99,1327.9,19
 2023-04-01,EMA,European Union / EEA,1,1115.0,1
-2023-04-01,FDA,United States,45,1281.2,0
-2023-04-01,Health Canada,Canada,216,185.4,261
-2023-04-01,TGA,Australia,101,1291.4,22
+2023-04-01,FDA,United States,45,1283.2,0
+2023-04-01,Health Canada,Canada,216,185.5,261
+2023-04-01,TGA,Australia,101,1293.4,22
 2023-05-01,EMA,European Union / EEA,2,548.0,2
-2023-05-01,Health Canada,Canada,212,177.7,212
-2023-05-01,TGA,Australia,96,1264.8,17
+2023-05-01,Health Canada,Canada,212,177.8,212
+2023-05-01,TGA,Australia,96,1266.8,17
 2023-06-01,Health Canada,Canada,448,128.4,257
-2023-06-01,TGA,Australia,121,1232.3,32
+2023-06-01,TGA,Australia,121,1234.3,32
 2023-07-01,EMA,European Union / EEA,1,195.0,0
-2023-07-01,FDA,United States,142,1200.9,0
-2023-07-01,Health Canada,Canada,344,193.7,374
-2023-07-01,TGA,Australia,92,1200.1,16
-2023-08-01,EMA,European Union / EEA,5,1016.4,0
-2023-08-01,FDA,United States,1,1172.0,0
-2023-08-01,Health Canada,Canada,253,222.8,233
-2023-08-01,TGA,Australia,131,1169.7,14
+2023-07-01,FDA,United States,142,1202.9,0
+2023-07-01,Health Canada,Canada,344,193.8,374
+2023-07-01,TGA,Australia,92,1202.1,16
+2023-08-01,EMA,European Union / EEA,5,1016.8,0
+2023-08-01,FDA,United States,1,1174.0,0
+2023-08-01,Health Canada,Canada,253,222.9,233
+2023-08-01,TGA,Australia,131,1171.7,14
 2023-09-01,EMA,European Union / EEA,0,,1
-2023-09-01,FDA,United States,1,1136.0,0
-2023-09-01,Health Canada,Canada,219,226.6,233
-2023-09-01,TGA,Australia,91,1126.1,11
+2023-09-01,FDA,United States,1,1138.0,0
+2023-09-01,Health Canada,Canada,219,226.8,233
+2023-09-01,TGA,Australia,91,1128.0,11
 2023-10-01,EMA,European Union / EEA,0,,1
-2023-10-01,FDA,United States,2,1095.0,0
-2023-10-01,Health Canada,Canada,249,221.6,247
-2023-10-01,TGA,Australia,80,1108.7,17
+2023-10-01,FDA,United States,2,1097.0,0
+2023-10-01,Health Canada,Canada,249,221.8,247
+2023-10-01,TGA,Australia,80,1110.7,17
 2023-11-01,EMA,European Union / EEA,1,899.0,0
-2023-11-01,FDA,United States,23,1084.8,0
-2023-11-01,Health Canada,Canada,338,217.4,284
-2023-11-01,TGA,Australia,104,1052.0,23
-2023-12-01,EMA,European Union / EEA,2,923.0,1
-2023-12-01,FDA,United States,12,1043.2,0
-2023-12-01,Health Canada,Canada,250,185.1,213
-2023-12-01,TGA,Australia,89,1027.2,26
-2024-01-01,EMA,European Union / EEA,1,1017.0,1
-2024-01-01,FDA,United States,5,1011.0,0
-2024-01-01,Health Canada,Canada,348,226.2,265
-2024-01-01,TGA,Australia,82,1016.8,20
-2024-02-01,EMA,European Union / EEA,1,980.0,0
-2024-02-01,Health Canada,Canada,246,182.8,254
-2024-02-01,TGA,Australia,68,985.8,16
-2024-03-01,EMA,European Union / EEA,1,963.0,0
-2024-03-01,Health Canada,Canada,239,151.5,279
-2024-03-01,TGA,Australia,98,957.1,19
-2024-04-01,EMA,European Union / EEA,2,732.0,0
-2024-04-01,Health Canada,Canada,266,179.7,279
-2024-04-01,TGA,Australia,88,927.6,26
-2024-05-01,Health Canada,Canada,226,239.3,260
-2024-05-01,TGA,Australia,82,897.0,24
-2024-06-01,EMA,European Union / EEA,2,808.0,0
-2024-06-01,Health Canada,Canada,235,258.0,187
-2024-06-01,TGA,Australia,73,864.4,23
-2024-07-01,EMA,European Union / EEA,2,647.0,0
-2024-07-01,Health Canada,Canada,232,170.2,197
-2024-07-01,TGA,Australia,89,829.5,19
-2024-08-01,EMA,European Union / EEA,2,815.0,0
-2024-08-01,Health Canada,Canada,273,214.7,166
-2024-08-01,TGA,Australia,98,796.9,26
-2024-09-01,Health Canada,Canada,237,208.0,235
-2024-09-01,TGA,Australia,59,761.2,18
+2023-11-01,FDA,United States,23,1086.8,0
+2023-11-01,Health Canada,Canada,338,217.6,284
+2023-11-01,TGA,Australia,104,1053.9,23
+2023-12-01,EMA,European Union / EEA,2,924.0,1
+2023-12-01,FDA,United States,12,1045.2,0
+2023-12-01,Health Canada,Canada,250,185.2,213
+2023-12-01,TGA,Australia,89,1029.1,26
+2024-01-01,EMA,European Union / EEA,1,1019.0,1
+2024-01-01,FDA,United States,5,1013.0,0
+2024-01-01,Health Canada,Canada,348,226.4,265
+2024-01-01,TGA,Australia,82,1018.8,20
+2024-02-01,EMA,European Union / EEA,1,982.0,0
+2024-02-01,Health Canada,Canada,246,182.9,254
+2024-02-01,TGA,Australia,68,987.8,16
+2024-03-01,EMA,European Union / EEA,1,965.0,0
+2024-03-01,Health Canada,Canada,239,151.7,279
+2024-03-01,TGA,Australia,98,959.1,19
+2024-04-01,EMA,European Union / EEA,2,733.0,0
+2024-04-01,Health Canada,Canada,266,179.9,279
+2024-04-01,TGA,Australia,88,929.6,26
+2024-05-01,Health Canada,Canada,226,239.5,260
+2024-05-01,TGA,Australia,82,899.0,24
+2024-06-01,EMA,European Union / EEA,2,809.0,0
+2024-06-01,Health Canada,Canada,235,258.3,187
+2024-06-01,TGA,Australia,73,866.4,23
+2024-07-01,EMA,European Union / EEA,2,648.0,0
+2024-07-01,Health Canada,Canada,232,170.4,197
+2024-07-01,TGA,Australia,89,831.4,19
+2024-08-01,EMA,European Union / EEA,2,817.0,0
+2024-08-01,Health Canada,Canada,273,214.9,166
+2024-08-01,TGA,Australia,98,798.9,26
+2024-09-01,Health Canada,Canada,237,208.3,235
+2024-09-01,TGA,Australia,59,763.2,18
 2024-10-01,EMA,European Union / EEA,1,218.0,0
-2024-10-01,FDA,United States,4,749.0,0
-2024-10-01,Health Canada,Canada,266,151.2,228
-2024-10-01,TGA,Australia,108,739.1,16
-2024-11-01,FDA,United States,2,725.0,0
-2024-11-01,Health Canada,Canada,244,208.8,193
-2024-11-01,TGA,Australia,77,710.3,11
+2024-10-01,FDA,United States,4,751.0,0
+2024-10-01,Health Canada,Canada,266,151.4,228
+2024-10-01,TGA,Australia,108,741.0,16
+2024-11-01,FDA,United States,2,727.0,0
+2024-11-01,Health Canada,Canada,244,209.1,193
+2024-11-01,TGA,Australia,77,712.3,11
 2024-12-01,EMA,European Union / EEA,1,315.0,0
-2024-12-01,Health Canada,Canada,245,233.7,206
-2024-12-01,TGA,Australia,84,639.1,29
+2024-12-01,Health Canada,Canada,245,234.1,206
+2024-12-01,TGA,Australia,84,641.0,29
 2025-01-01,EMA,European Union / EEA,1,83.0,0
 2025-01-01,FDA,United States,2,580.0,0
-2025-01-01,Health Canada,Canada,224,168.6,216
-2025-01-01,TGA,Australia,97,650.2,22
-2025-02-01,FDA,United States,4,609.0,0
-2025-02-01,Health Canada,Canada,182,117.7,218
-2025-02-01,TGA,Australia,64,609.6,20
-2025-03-01,EMA,European Union / EEA,1,598.0,0
-2025-03-01,FDA,United States,1,606.0,0
-2025-03-01,Health Canada,Canada,211,190.0,221
-2025-03-01,TGA,Australia,83,591.7,10
-2025-04-01,EMA,European Union / EEA,2,546.5,2
-2025-04-01,Health Canada,Canada,242,229.8,228
-2025-04-01,TGA,Australia,99,562.1,20
-2025-05-01,EMA,European Union / EEA,3,538.7,0
-2025-05-01,FDA,United States,6,518.0,0
-2025-05-01,Health Canada,Canada,240,148.4,185
-2025-05-01,TGA,Australia,75,530.5,10
+2025-01-01,Health Canada,Canada,224,168.9,216
+2025-01-01,TGA,Australia,97,652.2,22
+2025-02-01,FDA,United States,4,611.0,0
+2025-02-01,Health Canada,Canada,182,117.8,218
+2025-02-01,TGA,Australia,64,611.5,20
+2025-03-01,EMA,European Union / EEA,1,600.0,0
+2025-03-01,FDA,United States,1,608.0,0
+2025-03-01,Health Canada,Canada,211,190.4,221
+2025-03-01,TGA,Australia,83,593.7,10
+2025-04-01,EMA,European Union / EEA,2,547.5,2
+2025-04-01,Health Canada,Canada,242,230.4,228
+2025-04-01,TGA,Australia,99,564.1,20
+2025-05-01,EMA,European Union / EEA,3,540.7,0
+2025-05-01,FDA,United States,6,520.0,0
+2025-05-01,Health Canada,Canada,240,148.6,185
+2025-05-01,TGA,Australia,75,532.5,10
 2025-06-01,EMA,European Union / EEA,1,316.0,2
-2025-06-01,Health Canada,Canada,225,151.7,203
-2025-06-01,TGA,Australia,94,502.3,0
-2025-07-01,Health Canada,Canada,225,137.0,247
-2025-07-01,TGA,Australia,78,470.8,0
-2025-08-01,EMA,European Union / EEA,2,338.0,0
-2025-08-01,Health Canada,Canada,238,199.3,200
-2025-08-01,TGA,Australia,63,440.1,0
+2025-06-01,Health Canada,Canada,225,152.0,203
+2025-06-01,TGA,Australia,94,504.3,0
+2025-07-01,Health Canada,Canada,225,137.3,247
+2025-07-01,TGA,Australia,78,472.8,0
+2025-08-01,EMA,European Union / EEA,2,339.0,0
+2025-08-01,Health Canada,Canada,238,200.0,200
+2025-08-01,TGA,Australia,64,441.9,0
 2025-09-01,EMA,European Union / EEA,0,,1
-2025-09-01,Health Canada,Canada,166,133.2,161
-2025-09-01,TGA,Australia,71,408.5,0
+2025-09-01,Health Canada,Canada,166,133.6,161
+2025-09-01,TGA,Australia,71,410.5,0
 2025-10-01,EMA,European Union / EEA,1,208.0,5
-2025-10-01,FDA,United States,9,364.2,0
-2025-10-01,Health Canada,Canada,256,134.5,220
-2025-10-01,TGA,Australia,112,376.3,0
-2025-11-01,EMA,European Union / EEA,3,349.3,0
-2025-11-01,FDA,United States,57,353.8,0
-2025-11-01,Health Canada,Canada,198,117.5,204
-2025-11-01,TGA,Australia,69,347.4,0
-2025-12-01,EMA,European Union / EEA,1,326.0,0
-2025-12-01,FDA,United States,29,324.1,0
-2025-12-01,Health Canada,Canada,221,151.0,181
-2025-12-01,TGA,Australia,98,323.0,0
+2025-10-01,FDA,United States,8,366.0,0
+2025-10-01,Health Canada,Canada,256,134.9,220
+2025-10-01,TGA,Australia,112,378.3,0
+2025-11-01,EMA,European Union / EEA,3,351.3,0
+2025-11-01,FDA,United States,57,355.8,0
+2025-11-01,Health Canada,Canada,198,117.8,204
+2025-11-01,TGA,Australia,69,349.4,0
+2025-12-01,EMA,European Union / EEA,1,328.0,0
+2025-12-01,FDA,United States,29,326.1,0
+2025-12-01,Health Canada,Canada,221,151.6,181
+2025-12-01,TGA,Australia,98,325.0,0
 2026-01-01,EMA,European Union / EEA,0,,1
-2026-01-01,FDA,United States,30,287.6,0
-2026-01-01,Health Canada,Canada,177,88.7,152
-2026-01-01,TGA,Australia,87,286.6,0
-2026-02-01,EMA,European Union / EEA,2,254.0,3
-2026-02-01,FDA,United States,28,250.9,0
-2026-02-01,Health Canada,Canada,212,101.9,158
-2026-02-01,TGA,Australia,61,259.9,0
-2026-03-01,EMA,European Union / EEA,1,221.0,0
-2026-03-01,FDA,United States,47,223.0,0
-2026-03-01,Health Canada,Canada,273,90.6,224
-2026-03-01,TGA,Australia,49,228.5,0
+2026-01-01,FDA,United States,30,289.6,0
+2026-01-01,Health Canada,Canada,177,88.9,152
+2026-01-01,TGA,Australia,87,288.6,0
+2026-02-01,EMA,European Union / EEA,2,256.0,3
+2026-02-01,FDA,United States,28,252.9,0
+2026-02-01,Health Canada,Canada,212,102.3,158
+2026-02-01,TGA,Australia,62,261.8,0
+2026-03-01,EMA,European Union / EEA,1,223.0,0
+2026-03-01,FDA,United States,47,225.0,0
+2026-03-01,Health Canada,Canada,273,91.1,224
+2026-03-01,TGA,Australia,48,230.6,0
 2026-04-01,EMA,European Union / EEA,0,,5
-2026-04-01,FDA,United States,33,194.7,0
-2026-04-01,Health Canada,Canada,183,84.9,237
-2026-04-01,TGA,Australia,25,196.4,0
+2026-04-01,FDA,United States,33,196.7,0
+2026-04-01,Health Canada,Canada,183,85.3,237
+2026-04-01,TGA,Australia,25,198.4,0
 2026-05-01,EMA,European Union / EEA,1,135.0,2
-2026-05-01,FDA,United States,25,170.3,0
-2026-05-01,Health Canada,Canada,192,91.9,171
-2026-05-01,TGA,Australia,50,168.6,0
-2026-06-01,EMA,European Union / EEA,2,122.5,1
-2026-06-01,FDA,United States,50,138.2,0
-2026-06-01,Health Canada,Canada,245,77.6,216
-2026-06-01,TGA,Australia,48,136.8,0
-2026-07-01,EMA,European Union / EEA,2,115.5,0
-2026-07-01,FDA,United States,36,99.0,1
-2026-07-01,Health Canada,Canada,203,65.3,175
-2026-07-01,TGA,Australia,72,105.8,0
-2026-08-01,EMA,European Union / EEA,1,64.0,0
-2026-08-01,FDA,United States,46,76.5,6
-2026-08-01,Health Canada,Canada,175,45.5,168
-2026-08-01,TGA,Australia,78,72.7,0
-2026-09-01,EMA,European Union / EEA,2,54.5,3
-2026-09-01,FDA,United States,17,48.8,12
-2026-09-01,Health Canada,Canada,221,38.9,203
-2026-09-01,TGA,Australia,84,46.0,0
-2026-10-01,FDA,United States,47,13.5,0
-2026-10-01,Health Canada,Canada,34,15.5,17
-2026-10-01,TGA,Australia,89,14.6,0
+2026-05-01,FDA,United States,25,172.3,0
+2026-05-01,Health Canada,Canada,192,92.6,171
+2026-05-01,TGA,Australia,52,170.2,0
+2026-06-01,EMA,European Union / EEA,2,124.5,1
+2026-06-01,FDA,United States,50,140.2,0
+2026-06-01,Health Canada,Canada,245,78.4,216
+2026-06-01,TGA,Australia,46,138.6,0
+2026-07-01,EMA,European Union / EEA,2,117.5,0
+2026-07-01,FDA,United States,36,101.0,1
+2026-07-01,Health Canada,Canada,203,66.3,175
+2026-07-01,TGA,Australia,71,108.0,0
+2026-08-01,EMA,European Union / EEA,1,66.0,0
+2026-08-01,FDA,United States,46,78.5,6
+2026-08-01,Health Canada,Canada,175,46.4,168
+2026-08-01,TGA,Australia,78,74.7,0
+2026-09-01,EMA,European Union / EEA,2,56.5,3
+2026-09-01,FDA,United States,17,50.8,12
+2026-09-01,Health Canada,Canada,221,40.6,203
+2026-09-01,TGA,Australia,84,48.0,0
+2026-10-01,FDA,United States,48,15.2,0
+2026-10-01,Health Canada,Canada,34,16.1,17
+2026-10-01,TGA,Australia,93,15.9,0
 2026-11-01,Health Canada,Canada,16,,1
-2026-11-01,TGA,Australia,28,,0
+2026-11-01,TGA,Australia,30,,0
 2026-12-01,Health Canada,Canada,18,,1
-2026-12-01,TGA,Australia,28,,0
+2026-12-01,TGA,Australia,29,,0
 2027-01-01,Health Canada,Canada,15,,0
-2027-01-01,TGA,Australia,11,,0
+2027-01-01,TGA,Australia,13,,0
 2027-02-01,Health Canada,Canada,20,,0
 2027-02-01,TGA,Australia,6,,0
 2027-03-01,Health Canada,Canada,10,,1
 2027-03-01,TGA,Australia,4,,0
 2027-04-01,Health Canada,Canada,17,,0
-2027-04-01,TGA,Australia,4,,0
+2027-04-01,TGA,Australia,5,,0
 2027-05-01,Health Canada,Canada,2,,0
 2027-05-01,TGA,Australia,2,,0
 2027-06-01,Health Canada,Canada,4,,0
