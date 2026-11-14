@@ -2,7 +2,7 @@
 EMA,European Union / EEA,Current,28
 EMA,European Union / EEA,Discontinued,5
 EMA,European Union / EEA,Resolved,52
-FDA,United States,Anticipated Discontinuation,413
+FDA,United States,Anticipated Discontinuation,407
 FDA,United States,Current,1110
 FDA,United States,Resolved,59
 Health Canada,Canada,Anticipated,186
@@ -10,7 +10,7 @@ Health Canada,Canada,Avoided,693
 Health Canada,Canada,Current,1780
 Health Canada,Canada,Discontinued,3494
 Health Canada,Canada,Resolved,23688
-TGA,Australia,Anticipated,85
-TGA,Australia,Current,462
-TGA,Australia,Discontinued,294
+TGA,Australia,Anticipated,88
+TGA,Australia,Current,461
+TGA,Australia,Discontinued,295
 TGA,Australia,Resolved,9894
